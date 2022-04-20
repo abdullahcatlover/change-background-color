@@ -1,0 +1,7 @@
+body {
+  transition: all 2s ease;
+}
+
+.main-selector {
+  padding: 50vh 50%;
+}
